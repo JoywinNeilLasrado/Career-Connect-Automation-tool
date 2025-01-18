@@ -1,5 +1,5 @@
 # Career-Connect-Automation-tool
-areer Connect Automation Tool
+
 Overview
 The Career Connect Automation Tool streamlines the process of gathering and sharing job opportunities with candidates. By automating web scraping, data structuring, and email communication, the tool reduces manual effort and ensures timely delivery of relevant job openings. This project utilizes UiPath, a powerful Robotic Process Automation (RPA) platform, to achieve these goals.
 
